@@ -1,0 +1,5 @@
+##Install PyInstaller using cmd:
+pip install pyinstaller
+
+##Generate the .exe from cmd with:
+pyinstaller --onefile --windowed gui.py

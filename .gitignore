@@ -1,0 +1,30 @@
+# Ignore .exe files
+*.exe
+
+# Ignore PyInstaller build files
+/dist/
+build/
+*.spec
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.toc
+*.pyz
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore IDE configuration files (optional, depending on your editor)
+.idea/
+.vscode/
+
+# Ignore log files (optional)
+*.log
+
+#Ignore Keys and bin files
+*.key
+*.bin
+keys/
